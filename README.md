@@ -6,7 +6,7 @@ This project is based on predicting house prices using machine learning.
 - Data loading and exploration
 - Handling missing values
 - Encoding categorical data
-- Model training (Random Forest)
+- Model training (Random Forest).
 - Evaluation using RMSE and MAE
 
 ## Tools Used:
